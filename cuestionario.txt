@@ -1,0 +1,23 @@
+CUESTIONARIO:
+
+¿Qué diferencia hay entre let y const?	let permite cambiar el valor; const no.	Sí
+
+¿Qué tipo de dato representa true o false?	Booleano (boolean).	Sí
+
+¿Qué significa que una variable tenga scope de bloque?	Que solo existe dentro del bloque {} donde fue creada.	Sí
+
+¿Para qué sirve un if?	Para tomar decisiones según una condición.	Sí
+
+¿Cuándo conviene usar un for?	Cuando sabemos cuántas veces se repetirá algo.	Sí
+
+¿Qué puede ocurrir si un while nunca cambia su condición?	Se genera un bucle infinito.	Sí
+
+¿Para qué sirve console.log()?	Para mostrar información en la consola.	Sí
+
+¿Qué diferencia hay entre == y ===?	== compara valores, === compara valor y tipo de dato.	Sí
+
+¿Qué ventaja tienen las funciones flecha sobre las declarativas?	Son más cortas y simples de escribir.	Sí
+
+¿Para qué sirve la desestructuración?	Para extraer valores de objetos o arreglos fácilmente.	Sí
+
+¿Qué hace el método push() en un arreglo?	Agrega un elemento al final del arreglo.	Sí
